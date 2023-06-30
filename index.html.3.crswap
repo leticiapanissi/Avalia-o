@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Castela</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <h1>Ana Castela o novo sucesso do sertanejo</h1>
+    <h2>A Boiadeira chegou bebê!</h2>
+    <img id="ima1" src="perfil Ana Castela.jpg">
+    <h3>   Ana Flávia Castela, também conhecida pela alcunha Boiadeira, é uma cantora, compositora e instrumentista brasileira. Tornou-se conhecida pela música "Pipoco", lançada em parceria com a também cantora Melody e o músico DJ Chris no Beat. Sua carreira vem crescendo muito desde o último ano e vem conquistando cada dia mais seu lugar no mundo sertanejo.</h3>
+    <img id="ima2" src="image.jpg">
+    <img id="ima3" src="ana-castela-show.jpg">
+    <h4>Ana não se destaca apenas por sua voz única, mas também mostra como é a vida no campo e vem conquistando o coração dos brasileiros pela sua bondade, generosidade e humildade que nunca foi abalada mesmo depois da fama. Como muitos dizem "Demos a fama para a pessoa certa". A Boiadeira (como é chamada por muitos) possui músicas em inúmeros estilos musicais, mas nunca deixando sair de sua essência, a vida no interior.</h4>
+    <h5>Para você que se interessou por essa nova cantora, est logo abaixo o link de sua playlist do Spotify com seus novos lançamentos, não deixe de conferir.</h5>
+</body>
+</html>

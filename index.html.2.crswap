@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Castela</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <h1>Ana Castela</h1>
+    <h2>A Boiadeira chegou bebê!</h2>
+    <img id="ima1" src="perfil Ana Castela.jpg">
+    <h3>Ana Flávia Castela, também conhecida pela alcunha Boiadeira, é uma cantora, compositora e instrumentista brasileira. Tornou-se conhecida pela música "Pipoco", lançada em parceria com a também cantora Melody e o músico DJ Chris no Beat. Sua carreira vem crescendo muito desde o último ano e vem conquistando cada di vez mais seu lugar no mundo sertanejo.</h3>
+</body>
+</html>
